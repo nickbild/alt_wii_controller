@@ -6,9 +6,13 @@
 
 ## Media
 
+Finally, a D-pad!
+
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/playing_2.png)
 
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/rear_sm.jpg)
+
+The stepper tilts the Wiimote for steering. The servos press the accelerator and use item buttons:
 
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/rear_close_sm.jpg)
 
