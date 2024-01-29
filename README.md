@@ -8,23 +8,23 @@
 
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/playing_2.png)
 
-![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/rear_sm.png)
+![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/rear_sm.jpg)
 
-![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/rear_close_sm.png)
+![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/rear_close_sm.jpg)
 
-![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/top_sm.png)
+![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/top_sm.jpg)
 
-![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/front_sm.png)
+![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/front_sm.jpg)
 
-![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/circuit_sm.png)
+![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/circuit_sm.jpg)
 
-![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/left_sm.png)
+![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/left_sm.jpg)
 
-![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/right_sm.png)
+![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/right_sm.jpg)
 
-![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/controller_sm.png)
+![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/controller_sm.jpg)
 
-![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/adapter_sm.png)
+![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/adapter_sm.jpg)
 
 ## Bill of Materials
 
