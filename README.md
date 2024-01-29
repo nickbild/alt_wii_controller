@@ -38,7 +38,7 @@ A 3D-printed adapter to go from keyed stepper shaft to a Lego axle:
 
 ## Bill of Materials
 
-- 1 x Arduino Uno or compatible
+- 1 x Arduino Uno or compatible (Adafruit METRO 328 in this case)
 - 1 x High-torque stepper motor, Nema 17, holding torque 42Ncm
 - 2 x TowerPro SG92R micro servos
 - 4 x Push buttons
