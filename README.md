@@ -18,6 +18,8 @@ The stepper tilts the Wiimote for steering. The servos press the accelerator and
 
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/top_sm.jpg)
 
+The batteries are heavy, so I moved them outside of the Wiimote to take the load off of the stepper:
+
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/front_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/circuit_sm.jpg)
