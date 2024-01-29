@@ -22,6 +22,8 @@ The batteries are heavy, so I moved them outside of the Wiimote to take the load
 
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/front_sm.jpg)
 
+The control system:
+
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/circuit_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/left_sm.jpg)
@@ -29,6 +31,8 @@ The batteries are heavy, so I moved them outside of the Wiimote to take the load
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/right_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/controller_sm.jpg)
+
+A 3D-printed adapter to go from keyed stepper shaft to a Lego axle:
 
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/adapter_sm.jpg)
 
