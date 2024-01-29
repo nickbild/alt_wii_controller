@@ -1,5 +1,7 @@
 # Alternative Wii Controller
 
+![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/playing_1.png)
+
 ## How It Works
 
 ## Media
