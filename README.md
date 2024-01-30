@@ -14,6 +14,8 @@ An Adafruit METRO 328 (Arduino Uno clone) takes inputs from a simple D-pad that 
 
 ## Media
 
+[YouTube Demo](https://www.youtube.com/watch?v=-RoERFDSVcw)
+
 Finally, a D-pad!
 
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/playing_2.png)
