@@ -1,5 +1,7 @@
 # Alternative Wii Controller
 
+Mario Kart Wii is a great game, but the controls are awkward. So, I built an alternative controller to play the game with a D-pad.
+
 ![](https://raw.githubusercontent.com/nickbild/alt_wii_controller/main/media/playing_1.png)
 
 ## How It Works
