@@ -10,7 +10,7 @@ A Lego base with a rotating platform was built. The Wiimote sits on the rotating
 
 A lightweight frame was built around the Wiimote with wooden dowels to give more surface area for the servos to attach to the controller. The batteries were removed from the Wiimote and wires were attached to the contacts such that the batteries can be positioned in the base to reduce the load on the stepper.
 
-An Adafruit METRO 328 (Arduino Uno clone) takes inputs from a simple D-pad that I built from push buttons and perfboard ([sketch here](https://github.com/nickbild/alt_wii_controller/tree/main/wii_controller_arduino)). The left and right buttons turn the stepper motor to tilt the Wiimote and trigger a turn in the game. The other buttons trigger accelerate and use item buttons via servo movements.
+An Adafruit METRO 328 (Arduino Uno clone) takes inputs from a simple D-pad that I built from push buttons and perfboard ([sketch here](https://github.com/nickbild/alt_wii_controller/tree/main/wii_controller_arduino)). The left and right buttons turn the stepper motor to tilt the Wiimote and trigger a turn in the game. The other buttons trigger the accelerate and use item buttons via servo movements.
 
 ## Media
 
