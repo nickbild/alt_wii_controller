@@ -4,7 +4,7 @@
 
 ## How It Works
 
-A Lego base with a rotating platform was built. The Wiimote sits on the rotating platform and is turned by a stepper motor via a pair of gears that reduce the load on the motor. Two servo motors are attached to the Wiimote such that they can press the accleration and use item buttons on command.
+A Lego base with a rotating platform was built. The Wiimote sits on the rotating platform and is turned by a stepper motor via a pair of gears that reduce the load on the motor. A [3D-printed adapter](https://github.com/nickbild/alt_wii_controller/blob/main/stepper_to_lego.stl) was created to attach the keyed shaft of the stepper to a Lego axle. Two servo motors are attached to the Wiimote such that they can press the accleration and use item buttons on command.
 
 A lightweight frame was built around the Wiimote with wooden dowels to give more surface area for the servos to attach to the controller. The batteries were removed from the Wiimote and wires were attached to the contacts such that the batteries can be positioned in the base to reduce the load on the stepper.
 
